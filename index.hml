@@ -1,0 +1,132 @@
+<!-- IMAGE 1 -->
+
+<h1 style="background-color:#f7e36a; text-align:center;">
+<u><i>IMAGE 1:</i></u>
+</h1>
+
+<h2>Languages</h2>
+
+<ul>
+<li>English</li>
+<li>Spanish</li>
+<li>Japanese</li>
+</ul>
+
+<h2>Counting in English</h2>
+
+<ol>
+<li>One</li>
+<li>Two</li>
+<li>Three</li>
+</ol><!DOCTYPE html>
+<html>
+<head>
+<title>HTML Lists Assignment</title>
+</head>
+<body>
+
+
+<h2>Counting in Other Languages</h2>
+
+<ul>
+<li>Spanish
+<ol>
+<li>Uno</li>
+<li>Dos</li>
+<li>Tres</li>
+</ol>
+</li>
+
+<li>Japanese
+<ol>
+<li>Ichi</li>
+<li>Ni</li>
+<li>San</li>
+</ol>
+</li>
+</ul>
+
+<hr>
+
+<!-- IMAGE 2 -->
+
+<h1 style="background-color:#f7e36a; text-align:center;">
+<u><i>IMAGE 2:</i></u>
+</h1>
+
+<ul>
+<li>Apple</li>
+<li>Banana</li>
+<li>Grapes</li>
+<li>Mango</li>
+<li>Papaya</li>
+</ul>
+
+<br><br><br>
+
+<!-- IMAGE 3 -->
+
+<h1 style="background-color:#f7e36a; text-align:center;">
+<u><i>IMAGE 3:</i></u>
+</h1>
+
+<ul>
+<li>Fruit
+<ul>
+<li>Bananas</li>
+<li>Apples
+<ul>
+<li>Green</li>
+<li>Red</li>
+</ul>
+</li>
+<li>Pears</li>
+</ul>
+</li>
+
+<li>Vegetables</li>
+<li>Meat</li>
+</ul>
+
+<hr>
+
+<!-- IMAGE 4 -->
+
+<h1 style="background-color:#f7e36a; text-align:center;">
+<u><i>Image 4:</i></u>
+</h1>
+
+<h2>Nested List:</h2>
+
+<ol>
+<li>Chocolates
+<ul>
+<li>Dairy Milk</li>
+<li>Bournville</li>
+<li>Munch</li>
+</ul>
+</li>
+
+<br>
+
+<li>Games
+<ul>
+<li>Cricket</li>
+<li>Hockey</li>
+<li>Football</li>
+</ul>
+</li>
+
+<br>
+
+<li>Fruits
+<ul>
+<li>Apple</li>
+<li>Orange</li>
+<li>Grapes</li>
+</ul>
+</li>
+</ol>
+
+</body>
+</html>
